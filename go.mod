@@ -1,3 +1,3 @@
-module github.com/softrenzu/Keycloak
+module github.com/softrenzu/RooomGate
 
 go 1.23
