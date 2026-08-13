@@ -6,14 +6,21 @@ import (
 	"os"
 	"time"
 
-	"github.com/softrenzu/Keycloak/internal/server"
+	"github.com/softrenzu/RooomGate/internal/server"
 )
 
-func main() {
-	addr := os.Getenv("ROOOMID_ADDR")
-	if addr == "" {
-		addr = ":8080"
+func env(primary, legacy, fallback string) string {
+	if v := os.Getenv(primary); v != "" {
+		return v
 	}
+	if v := os.Getenv(legacy); v != "" {
+		return v
+	}
+	return fallback
+}
+
+func main() {
+	addr := env("ROOOMGATE_ADDR", "ROOOMID_ADDR", ":8080")
 	s := server.New()
 	srv := &http.Server{
 		Addr: addr,
@@ -23,6 +30,6 @@ func main() {
 		WriteTimeout: 15 * time.Second,
 		IdleTimeout: 60 * time.Second,
 	}
-	log.Printf("RooomID listening on %s", addr)
+	log.Printf("RooomGate listening on %s", addr)
 	log.Fatal(srv.ListenAndServe())
 }
