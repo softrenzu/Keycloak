@@ -100,7 +100,7 @@ ROOOMTECH provides paid maintenance and support, implementation and integration 
 
 Contact: `tasuku.yoshioka@rooomtech.com`
 
-See `COMMERCIAL.md` and `LICENSE` for details.
+PolyForm Noncommercial License 1.0.0: https://polyformproject.org/licenses/noncommercial/1.0.0
 
 ## License
 
