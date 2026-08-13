@@ -1,21 +1,21 @@
-MIT License
+ROOOMTECH Dual License Notice
+Version 0.2.0 and later
 
-Copyright (c) 2026 RooomID contributors
+ROOOMTECH-authored code in this release is offered under either of the following options:
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+1. PolyForm Noncommercial License 1.0.0
+   https://polyformproject.org/licenses/noncommercial/1.0.0
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+   Required Notice: Copyright 2026 ROOOMTECH
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+2. A separate paid commercial software license agreement executed with ROOOMTECH.
+
+The PolyForm Noncommercial option is for uses permitted by that license. For commercial, business, production, revenue-generating, resale, embedded, or customer-facing use, obtain a paid commercial license from ROOOMTECH before deployment.
+
+A standard commercial software license agreement is available. ROOOMTECH also offers paid maintenance, support, implementation, integration, upgrades, security support, SLA options, private builds, and custom development.
+
+Contact: tasuku.yoshioka@rooomtech.com
+
+Earlier versions remain governed by the license terms published with those versions. This notice does not revoke rights already granted for earlier versions.
+
+Third-party software, dependencies, and separately identified components remain governed by their respective licenses.
