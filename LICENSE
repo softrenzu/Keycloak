@@ -1,21 +1,25 @@
 ROOOMTECH Dual License Notice
-Version 0.2.0 and later
+Applies to RooomGate version 0.3.0 and later
 
-ROOOMTECH-authored code in this release is offered under either of the following options:
+Copyright 2026 ROOOMTECH
+Required Notice: Copyright 2026 ROOOMTECH
+
+ROOOMTECH-authored code in this release is offered under either of these options:
 
 1. PolyForm Noncommercial License 1.0.0
    https://polyformproject.org/licenses/noncommercial/1.0.0
 
-   Required Notice: Copyright 2026 ROOOMTECH
+   You may use, modify, and distribute the ROOOMTECH-authored code only for purposes permitted by that license. The PolyForm Noncommercial License terms at the URL above are incorporated by reference.
 
-2. A separate paid commercial software license agreement executed with ROOOMTECH.
+2. ROOOMTECH Commercial Software License
 
-The PolyForm Noncommercial option is for uses permitted by that license. For commercial, business, production, revenue-generating, resale, embedded, or customer-facing use, obtain a paid commercial license from ROOOMTECH before deployment.
+   If your use is for a business or commercial purpose, revenue-generating activity, customer-facing service, resale, commercial embedding, or another purpose not permitted by the PolyForm Noncommercial License, you must obtain a separate paid commercial software license from ROOOMTECH before that use.
 
-A standard commercial software license agreement is available. ROOOMTECH also offers paid maintenance, support, implementation, integration, upgrades, security support, SLA options, private builds, and custom development.
+A standard commercial software license agreement is available. ROOOMTECH also offers paid maintenance, technical support, implementation and integration assistance, upgrades, security support, SLA options, private builds, and custom development.
 
-Contact: tasuku.yoshioka@rooomtech.com
+Commercial licensing and support contact:
+support@rooomtech.com
 
-Earlier versions remain governed by the license terms published with those versions. This notice does not revoke rights already granted for earlier versions.
+Earlier releases remain governed by the license terms published with those releases. This notice does not revoke rights already granted under an earlier release.
 
 Third-party software, dependencies, and separately identified components remain governed by their respective licenses.
