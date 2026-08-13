@@ -1,6 +1,8 @@
 # RooomID
 
-RooomID is an experimental open-source identity and authorization server for modern APIs, SaaS, workloads, and AI agents. It is designed as a small authorization-first alternative to traditional IAM servers.
+Version: `0.2.0`
+
+RooomID is an experimental source-available identity and authorization server for modern APIs, SaaS, workloads, and AI agents. It is designed as a small authorization-first alternative to traditional IAM servers.
 
 > **Status: alpha.** Runnable and locally tested, but not production-hardened. A broader feature direction does not imply greater security maturity than Keycloak.
 
@@ -90,6 +92,16 @@ go build ./cmd/rooomid
 
 See `docs/ARCHITECTURE.md` and `SECURITY.md` before extending or deploying RooomID.
 
+## Commercial use and support
+
+Starting with version `0.2.0`, ROOOMTECH-authored code in this release is source-available under the PolyForm Noncommercial License 1.0.0 for permitted noncommercial use. Commercial, business, production, revenue-generating, resale, embedded, or customer-facing use requires a separate paid commercial license from ROOOMTECH.
+
+ROOOMTECH provides paid maintenance and support, implementation and integration assistance, upgrade support, security support, SLA options, private builds, and custom development. A standard commercial software license agreement is available.
+
+Contact: `tasuku.yoshioka@rooomtech.com`
+
+See `COMMERCIAL.md` and `LICENSE` for details.
+
 ## License
 
-MIT License. See `LICENSE`.
+Dual licensing from `0.2.0`: PolyForm Noncommercial License 1.0.0 for permitted noncommercial use, or a separate paid commercial license from ROOOMTECH. Earlier versions remain governed by the license terms published with those versions.
