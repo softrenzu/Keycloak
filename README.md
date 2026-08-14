@@ -22,7 +22,7 @@ RooomGate is a source-available identity and authorization server for modern API
 ## Run
 
 ```bash
-go run ./cmd/rooomid
+go run ./cmd/rooomgate
 ```
 
 The legacy command directory `cmd/rooomid` and `ROOOMID_*` environment variables are retained for compatibility. New deployments should use `ROOOMGATE_ADDR`; the server falls back to `ROOOMID_ADDR` when necessary.
@@ -48,7 +48,7 @@ Send the same request to `/access/v1/explain` to receive the policy trace.
 ```bash
 go test ./...
 go vet ./...
-go build ./cmd/rooomid
+go build ./cmd/rooomgate
 ```
 
 See `docs/ARCHITECTURE.md` and `SECURITY.md` before extending or deploying RooomGate.
